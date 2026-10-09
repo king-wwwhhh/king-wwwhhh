@@ -42,6 +42,8 @@ Electron 桌面应用：通过 IMAP 获取招聘邮件，调用配置的模型�
 
 ## 社区参与
 
+- [LangChain4j PR #6630](https://github.com/langchain4j/langchain4j/pull/6630)：修复五页文档中的六个失效章节链接，关联可复现的问题 [#6629](https://github.com/langchain4j/langchain4j/issues/6629)；完整文档构建及目标锚点核验通过。
+
 - [LangChain4j PR #6628](https://github.com/langchain4j/langchain4j/pull/6628)：修正重复的 TTS 文档，补充音频转写用法；示例通过 Java 17 编译，文档站构建通过。
 
 - [DockerDesktop-CN PR #86](https://github.com/asxez/DockerDesktop-CN/pull/86)：根据 [#82](https://github.com/asxez/DockerDesktop-CN/issues/82) 的实际使用反馈，补充 Windows 每用户安装路径与文件定位说明。
