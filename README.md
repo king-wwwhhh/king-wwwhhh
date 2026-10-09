@@ -42,7 +42,9 @@ Electron 桌面应用：通过 IMAP 获取招聘邮件，调用配置的模型�
 
 ## 社区参与
 
-- [DockerDesktop-CN #82](https://github.com/asxez/DockerDesktop-CN/issues/82)：反馈 Windows 每用户安装路径导致汉化操作无效的问题，提供实际路径与排查线索。
+- [LangChain4j PR #6628](https://github.com/langchain4j/langchain4j/pull/6628)：修正重复的 TTS 文档，补充音频转写用法；示例通过 Java 17 编译，文档站构建通过。
+
+- [DockerDesktop-CN PR #86](https://github.com/asxez/DockerDesktop-CN/pull/86)：根据 [#82](https://github.com/asxez/DockerDesktop-CN/issues/82) 的实际使用反馈，补充 Windows 每用户安装路径与文件定位说明。
 - [WSL #41407](https://github.com/microsoft/WSL/issues/41407)：分享 Windows / WSL2 启动故障的排障过程。
 
 ## 关注方向
